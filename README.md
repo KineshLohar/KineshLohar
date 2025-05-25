@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kineshlohar&label=Profile%20views&color=0e75b6&style=flat" alt="kineshlohar" /> </p>
 
-🔭 **I’m currently working on:** <br>Full stack software development, AR/VR application development, and 3D website development.<br><br>👯 **I’m looking to collaborate on:** <br>Fullstack projects and innovative AR/VR applications.<br><br>🌱 **I’m currently learning:** <br>Next.js, Three.js, and complex full stack software development.<br><br>💬 **Ask me about:** <br>React, Node.js, Express, MongoDB, Next.js, A-Frame, AR/VR application development, and other general software development topics.<br><br>⚡ **Fun fact:** <br>I’m a passionate gamer too!
+🔭 **I’m currently working on:** 
+<br>Creating full-stack SaaS applications with a focus on clean architecture, scalability, and production-grade performance.<br>
+<br>👯 ** Available For:** <br>Freelance opportunities and collaborative full-stack projects.<br>
+<br>🌱 **I’m currently learning:** <br>AI-driven applications, AI agents, and advanced development practices for building industry-level, production-ready software.<br>
+<br>💬 **Proficient In:** <br>I’m proficient in building robust applications using React, Next.js, Node.js, and Express, with hands-on experience in databases like MongoDB and PostgreSQL, efficient ORM management with Prisma, version control using Git, and applying strong principles of system design.<br>
+<br>⚡ **Fun fact:** <br>I’m a passionate gamer too!
 
 
 ## 🌐 Socials:
@@ -20,7 +25,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![A-Frame](https://img.shields.io/badge/A--Frame-F03C02?style=for-the-badge&logo=aframe&logoColor=white) 
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
