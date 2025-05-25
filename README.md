@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=qiskit&logoColor=white)](https://kineshlohar.github.io/portfolio/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kinesh_malviya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KineshLohar) [![Stack Overflow](https://img.shields.io/badge/-Snapchat-FE7A16?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/kinesh123) [![Hackerrank](https://img.shields.io/badge/Hackerrank-FE7A16?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kineshlohar) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=qiskit&logoColor=white)](https://kineshlohar.vercel.app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kinesh_malviya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KineshLohar) [![Stack Overflow](https://img.shields.io/badge/-Snapchat-FE7A16?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/kinesh123) [![Hackerrank](https://img.shields.io/badge/Hackerrank-FE7A16?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kineshlohar) 
 
 
 ## Tech Stack
