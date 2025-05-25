@@ -41,4 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kineshlohar&show_icons=true&locale=en" alt="kineshlohar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kineshlohar&" alt="kineshlohar" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kineshlohar&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
