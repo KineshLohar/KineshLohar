@@ -53,3 +53,14 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kineshlohar&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kineshlohar&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kineshlohar&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kineshlohar&theme=dark)
+
+![Test Image](https://avatars.githubusercontent.com/u/9919)
+
+
