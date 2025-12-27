@@ -12,7 +12,7 @@
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=qiskit&logoColor=white)](https://kineshlohar.vercel.app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kinesh_malviya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KineshLohar) [![Stack Overflow](https://img.shields.io/badge/-Snapchat-FE7A16?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/kinesh123) [![Hackerrank](https://img.shields.io/badge/Hackerrank-FE7A16?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kineshlohar) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=qiskit&logoColor=white)](https://kineshlohar.vercel.app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kinesh_malviya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/KineshLohar) [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/kinesh_lohar) [![Stack Overflow](https://img.shields.io/badge/-Snapchat-FE7A16?logo=snapchat&logoColor=white)](https://www.snapchat.com/add/kinesh123) [![Hackerrank](https://img.shields.io/badge/Hackerrank-FE7A16?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kineshlohar) 
 
 
 ## Tech Stack
@@ -40,6 +40,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kineshlohar&show_icons=true&locale=en&layout=compact" alt="kineshlohar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kineshlohar&show_icons=true&locale=en" alt="kineshlohar" /></p>
+
+## 📊 GitHub Stats
+
+![Kinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kineshlohar&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kineshlohar&layout=compact&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kineshlohar&theme=tokyonight&hide_border=true)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kineshlohar&theme=tokyonight&margin-w=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kineshlohar&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
