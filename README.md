@@ -41,26 +41,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kineshlohar&show_icons=true&locale=en" alt="kineshlohar" /></p>
 
-## 📊 GitHub Stats
-
-![Kinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kineshlohar&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kineshlohar&layout=compact&theme=tokyonight&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kineshlohar&theme=tokyonight&hide_border=true)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=kineshlohar&theme=tokyonight&margin-w=10)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kineshlohar&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kineshlohar&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kineshlohar&layout=compact&theme=dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kineshlohar&theme=dark)
-
-![Test Image](https://avatars.githubusercontent.com/u/9919)
 
 
